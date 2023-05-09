@@ -34,9 +34,9 @@ body {
 }
 
 #header-under-background {
-    background-image: url(/assets/day53.png);
-    background-size: cover;
+    background-image: url(/assets/day12-bed.png);
     background-position: center;
+    background-size: contain;
 }
 
 .header-under {
