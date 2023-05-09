@@ -34,7 +34,7 @@ body {
 }
 
 #header-under-background {
-    background-image: url(/assets/ink.jpg);
+    background-image: url(/assets/day53.png);
     background-size: cover;
     background-position: center;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 .header-under h1 {
-    color: black;
+    color: lightgray;
     font-weight: bold;
     font-family: sans-serif;
 }
