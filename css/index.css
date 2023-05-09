@@ -57,5 +57,15 @@ body {
 
 .alert-main-top p {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
+}
+
+.alert-main-top a {
+    color: lightgray;
+    text-decoration: none;
+}
+
+.alert-main-top a:hover {
+    color: lightslategray;
+    text-decoration: underline;
 }
