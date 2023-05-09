@@ -28,9 +28,9 @@ body {
 }
 
 #header-main-background {
-    background-image: url(/assets/inc.png);
-    background-size: cover;
+    background-image: url(/assets/day54.png);
     background-position: center;
+    background-size: contain;
 }
 
 #header-under-background {

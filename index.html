@@ -67,14 +67,17 @@
         </div>
     </nav>
 
-
+    <!-- Header Config -->
     <div id="header-main-background" class="header-main">
-        <h1>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam molestias ducimus corporis cumque dolor!
-            Eveniet voluptates obcaecati ipsum perspiciatis. Ratione, delectus. Repellat eius neque quos, perferendis
-            hic dolor animi ullam.
-        </h1>
+        <center>
+            <h3 style="color: white; font-size: 35px; font-weight: bold;">
+                Welcome To PublicSpaces | Montreal
+            </h3>
+            <button onclick="Getstarted()" class="btn btn-primary">Get Started</button>
+        </center>
     </div>
+
+    <!-- End -->
 
     <br>
     <br>
@@ -178,6 +181,12 @@
         </p>
     </div>
 
+    <!-- js function for button in header-top-main -->
+    <script type="text/javascript">
+        function Getstarted() {
+            location.assign('/pages/discover.html')
+        }
+    </script>
 
     <script src="/js/index.js"></script>
     <script src="/js/script.js"></script>
