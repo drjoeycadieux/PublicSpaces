@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
 body {
     padding: 0;
     margin: 0;
@@ -13,4 +15,47 @@ body {
     text-align: center;
     color: white;
     font-family: sans-serif;
+}
+
+.header-main {
+    padding: 160px;
+}
+
+.header-main h1 {
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#header-main-background {
+    background-image: url(/assets/inc.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#header-under-background {
+    background-image: url(/assets/ink.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header-under {
+    padding: 160px;
+}
+
+.header-under h1 {
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.alert-main-top {
+    background-color: firebrick;
+    text-align: center;
+    padding: 5px;
+}
+
+.alert-main-top p {
+    color: white;
+    font-size: 25px;
 }
