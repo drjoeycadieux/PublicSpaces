@@ -52,7 +52,7 @@ body {
 .alert-main-top {
     background-color: firebrick;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
 }
 
 .alert-main-top p {
@@ -62,7 +62,7 @@ body {
 }
 
 .alert-main-top a {
-    color: lightgray;
+    color: lightslategray;
     text-decoration: none;
 }
 
