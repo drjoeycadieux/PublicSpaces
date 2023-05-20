@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h3 {
+    color: #2d3748;
+}
+
+.inner2 {
+    padding: 3px;
+    background-color: blueviolet;
+    width: 60px;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.portal {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 25px;
+    width: 800px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.portal-content p {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.content-info {
+    width: 800px;
+    margin: auto;
+}
